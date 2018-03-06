@@ -1,5 +1,5 @@
 # haier-app
-https://carrie-sun.github.io/decorate/.
+https://carrie-sun.github.io/haier-app/
 部分页面展示
 ![](https://github.com/Carrie-sun/haier-app/blob/master/imgs/demo.JPG)
 购物车页面
